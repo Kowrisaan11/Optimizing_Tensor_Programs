@@ -5,7 +5,7 @@ Domain-specific languages (DSLs) like Halide and Tiramisu facilitate optimized t
 </div>
 
 ![Project architecture](project_architecture.png)
-[Read the PDF](Mid_Review_Report.pdf)
+Read the chapter 3 & 4 [Read Mid Review Report](Mid_Review_Report.pdf)
 
 
 
